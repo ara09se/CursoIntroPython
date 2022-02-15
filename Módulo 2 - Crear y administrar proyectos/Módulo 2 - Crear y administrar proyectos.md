@@ -71,7 +71,11 @@ Tu entorno necesita el directorio ``venv`` para realizar un seguimiento de detal
 ```
   /env
   /src
+<<<<<<< HEAD
     program.py  
+=======
+    program.py
+>>>>>>> master
 ```
 
 ### Activar el entorno virtual
